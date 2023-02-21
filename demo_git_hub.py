@@ -1,0 +1,1 @@
+print(f"Bảnh chào ba nghìn người đang xem nhá !")
